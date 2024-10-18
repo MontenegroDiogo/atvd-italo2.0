@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+p {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+p:hover{
+    color: aqua;
+}
